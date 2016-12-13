@@ -1,5 +1,6 @@
 class motd
-#testwebhook
+#testwebhook1
+
 {
 file { '/etc/motd':
   ensure  => 'file',
