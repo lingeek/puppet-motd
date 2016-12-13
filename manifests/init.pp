@@ -1,6 +1,6 @@
 class motd
 #testwebhook1
-#glajhgjg
+#gl
 {
 file { '/etc/motd':
   ensure  => 'file',
